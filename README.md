@@ -55,7 +55,7 @@ Este repositorio **no incluye el modelo preentrenado (`sentiment_analysis_model.
 
 Por lo tanto:
 
-1. Ejecuta la app.
+1. Ejecuta la app `gui.py`.
 2. Ve a la sección **“Modelo”** y haz clic en **“Entrenar Modelo”**.
 3. Esto descargará los recursos necesarios y generará automáticamente el archivo `.pkl` para usar el clasificador.
 
