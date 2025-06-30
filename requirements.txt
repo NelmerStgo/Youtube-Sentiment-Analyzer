@@ -1,0 +1,6 @@
+pandas
+nltk
+scikit-learn
+joblib
+google-api-python-client
+customtkinter

@@ -1,0 +1,9 @@
+# Ignora entornos virtuales y configuración del IDE
+.venv/
+__pycache__/
+.idea/
+*.pyc
+
+# Ignora archivos grandes
+IMDB_Dataset.csv
+sentiment_analysis_model.pkl
